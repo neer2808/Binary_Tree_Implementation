@@ -1,3 +1,4 @@
+
 public class Node {
   int data;
   Node left;
@@ -8,5 +9,9 @@ public class Node {
     left = null;
     right = null;
   }
+
+  // Add getter and setter methods
+
+
 }
 
